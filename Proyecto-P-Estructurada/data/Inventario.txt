@@ -1,0 +1,51 @@
+1984|George Orwell|978045|1949|12
+Cien años de soledad|Gabriel García Márquez|978031|1967|8
+Don Quijote de la Mancha|Miguel de Cervantes|978849|1605|5
+El principito|Antoine de Saint-Exupéry|978850|1943|10
+Orgullo y prejuicio|Jane Austen|978014|1813|5
+Crimen y castigo|Fiódor Dostoyevski|978014|1866|7
+La Odisea|Homero|978014|1800|4
+La Ilíada|Homero|978014|1750|4
+Hamlet|William Shakespeare|978052|1603|6
+Macbeth|William Shakespeare|978074|1606|5
+La metamorfosis|Franz Kafka|978849|1915|9
+El proceso|Franz Kafka|978081|1925|6
+Rayuela|Julio Cortázar|978844|1963|7
+Ficciones|Jorge Luis Borges|978031|1944|8
+El Aleph|Jorge Luis Borges|978842|1949|7
+Matar a un ruiseñor|Harper Lee|978006|1960|6
+El gran Gatsby|F. Scott Fitzgerald|978074|1925|9
+En busca del tiempo perdido|Marcel Proust|978014|1913|3
+Ulises|James Joyce|978020|1922|3
+La divina comedia|Dante Alighieri|978014|1320|5
+Drácula|Bram Stoker|978049|1897|7
+Frankenstein|Mary Shelley|978049|1818|8
+El retrato de Dorian Gray|Oscar Wilde|978014|1890|6
+Los miserables|Victor Hugo|978045|1862|5
+Madame Bovary|Gustave Flaubert|978014|1856|4
+Anna Karenina|León Tolstói|978014|1877|6
+Guerra y paz|León Tolstói|978020|1869|3
+El extranjero|Albert Camus|978068|1942|7
+La peste|Albert Camus|978068|1947|6
+El túnel|Ernesto Sabato|978950|1948|5
+Sobre héroes y tumbas|Ernesto Sabato|978950|1961|4
+La sombra del viento|Carlos Ruiz Zafón|978841|2001|9
+El código Da Vinci|Dan Brown|978031|2003|10
+Ángeles y demonios|Dan Brown|978074|2000|8
+Harry Potter 1|J.K. Rowling|978075|1997|12
+Harry Potter 2|J.K. Rowling|978075|1998|11
+Harry Potter 3|J.K. Rowling|978075|1999|10
+Harry Potter 4|J.K. Rowling|978075|2000|9
+Harry Potter 5|J.K. Rowling|978075|2003|8
+Harry Potter 6|J.K. Rowling|978075|2005|7
+Harry Potter 7|J.K. Rowling|978055|2007|10
+El señor de los anillos I|J.R.R. Tolkien|978054|1954|6
+El señor de los anillos II|J.R.R. Tolkien|978054|1954|5
+El señor de los anillos III|J.R.R. Tolkien|978054|1955|5
+El hobbit|J.R.R. Tolkien|978055|1937|9
+Juego de tronos|George R.R. Martin|978055|1996|8
+Choque de reyes|George R.R. Martin|978055|1998|7
+Tormenta de espadas|George R.R. Martin|978055|2000|6
+Festín de cuervos|George R.R. Martin|978055|2005|5
+Danza de dragones|George R.R. Martin|978055|2011|5
+Prueba|Eduar|103897|2019|2
